@@ -1,5 +1,8 @@
-﻿
+
 * [Like-протокол](/like.md)
-   * [Важные отличия](/like/changes.md)
-   * [Порядок подключения](/like/connect.md)
-* [Sooplata-протокол](/)
+    * [Общая информация](/like/summary.md)
+    * [Важные отличия](/like/changes.md)
+    * [Подключение к серверу](/like/connect.md)
+    * [Последовательность работ при интеграции](/like/howto.md)
+    * [Тестовый сервер](/like/test-server.md)
+* Sooplata-протокол
