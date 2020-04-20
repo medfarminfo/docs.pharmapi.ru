@@ -18,7 +18,26 @@
 
 Каждый сервер имеет два endpoint-а для обмена данными: 
 
- * `https://{hostname}/api/v1.0/` - запросы и ответы передаются в теле запроса в JSON
- * `https://{hostname}/api/v1.0-encoded/` - запросы и ответы передаются в теле запроса в JSON, кодированном с помощью urlencode 
+ * `https://{hostname}/api/{api_version}/` - запросы и ответы передаются в теле запроса в JSON
+ * `https://{hostname}/api/{api_version}-encoded/` - запросы и ответы передаются в теле запроса в JSON, кодированном с помощью urlencode 
 
 Использовать можно любой из двух endpoint-ов.
+
+
+## Версии API (api_version) :id=api-versions
+
+Сервер может одновременно работать с разными версиями API.
+
+Различия между версиями описаны ниже, выберите удобную вам версию протокола.
+
+### v1.1  :id=api-version-1-1
+
+Отличается от v1.0 множественным числом в имени поля (`programs` вместо `program`) в ответе на запрос `get_programs` ([подробнее здесь](changes.md#programs-in-get-programs)).
+
+Для доступа используйте endpoint-ы `https://{hostname}/api/v1.1/` и `https://{hostname}/api/v1.1-encoded/`.
+
+### v1.0  :id=api-version-1-0
+
+Первоначальная версия.
+
+Для доступа используйте endpoint-ы `https://{hostname}/api/v1.0/` и `https://{hostname}/api/v1.0-encoded/`.
