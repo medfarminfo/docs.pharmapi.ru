@@ -3,6 +3,8 @@
 
 ## История изменений :id=changes {docsify-ignore}
 
+* 11 июня 2020
+  * Добавлено описание всех методов (за исключением confirm_purchase и cancel_purchase)
 * 20 апреля 2020
   * Добавлена [версия v1.1](/like/connect.md#api-versions)
 * 13 апреля 2020

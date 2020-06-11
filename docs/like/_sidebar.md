@@ -1,0 +1,18 @@
+
+* [Like-протокол](/like.md)
+    * [Общая информация](/like/summary.md)
+    * [Важные отличия](/like/changes.md)
+    * [Подключение к серверу](/like/connect.md)
+    * [Последовательность работ при интеграции](/like/howto.md)
+    * [Описание методов](/like/methods/)
+        * [cancel_purchase](/like/methods/cancel_purchase.md)
+        * [confirm_code](/like/methods/confirm_code.md)
+        * [confirm_purchase](/like/methods/confirm_purchase.md)
+        * [get_discount](/like/methods/get_discount.md)
+        * [get_products](/like/methods/get_products.md)
+        * [get_programs](/like/methods/get_programs.md)
+        * [pl](/like/methods/pl.md)
+        * [register](/like/methods/register.md)
+        * [update_pharmacies](/like/methods/update_pharmacies.md)
+    * [Тестовый сервер](/like/test-server.md)
+* Sooplata-протокол
