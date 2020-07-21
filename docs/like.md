@@ -3,6 +3,8 @@
 
 ## История изменений :id=changes {docsify-ignore}
 
+* 21 июля 2020
+  * Добавлено описание методов confirm_purchase и cancel_purchase
 * 11 июня 2020
   * Добавлено описание всех методов (за исключением confirm_purchase и cancel_purchase)
 * 20 апреля 2020
