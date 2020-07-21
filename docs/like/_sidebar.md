@@ -15,4 +15,5 @@
         * [register](/like/methods/register.md)
         * [update_pharmacies](/like/methods/update_pharmacies.md)
     * [Тестовый сервер](/like/test-server.md)
+    * [Сценарий тестирования](/like/test-cases.md)
 * Sooplata-протокол
