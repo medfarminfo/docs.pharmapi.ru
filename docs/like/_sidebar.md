@@ -13,7 +13,9 @@
         * [get_programs](/like/methods/get_programs.md)
         * [pl](/like/methods/pl.md)
         * [register](/like/methods/register.md)
+        * [sellout](/like/methods/sellout.md)
         * [update_pharmacies](/like/methods/update_pharmacies.md)
+        * [update_prices](/like/methods/update_prices.md)
     * [Тестовый сервер](/like/test-server.md)
     * [Сценарий тестирования](/like/test-cases.md)
 * Sooplata-протокол
