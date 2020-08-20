@@ -1,4 +1,4 @@
-# Важные отличия от оригинального протокола :id=differencies
+# Отличия от протокола Лайк-Фарма :id=differencies
 
 
 ## Методы `register` и `confirm_code`  :id=register
@@ -42,6 +42,7 @@
   "status": "success",
   "error_code": 0,
   "message": "Снижение цены рассчитано"
+
 }
 ```
 
@@ -71,4 +72,4 @@
 
 В оригинальном протоколе передача данных об аптеках сети выполняется через отдельный FTP-сервер.
 
-Однако для работы с PharmApi.ru сведения об аптеках нужно передавать прямо на основной сервер любым из двух способов: в виде JSON (метод [`update_pharmacies`](methods/update_pharmacies.md)) или в виде XML (метод [`pl`](methods/pl.md)).
+Однако для работы с PharmApi.ru сведения об аптеках нужно передавать прямо на основной сервер любым из двух способов: в виде JSON (метод [`update_pharmacies`](/methods/update_pharmacies.md)) или в виде XML (метод [`pl`](/methods/pl.md)).
