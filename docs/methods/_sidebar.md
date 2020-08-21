@@ -1,5 +1,5 @@
 
-* [Общая информация](/summary.md)
+* [История изменений](/history.md)
 * [Последовательность работ при интеграции](/howto.md)
 * [Подключение к серверу](/connect.md)
 * [Тестовый сервер](/test-server.md)
@@ -20,4 +20,4 @@
     * [get_programs](/methods/get_programs.md) 
     * [get_products](/methods/get_products.md) 
 * [Типовой сценарий тестирования](/test-cases.md)
-* [Важные отличия](/like_changes.md)
+* [Отличия от протокола Лайк-Фарма](/like_changes.md)

@@ -1,9 +1,9 @@
 ## История изменений документа :id=changes {docsify-ignore}
 
 * Август 2020
-  * Документация реструктурирована, старые ссылки могут не работать;
-  * Добавлено поле `qr_code` в вызов метода [`get_discount`](/methods/get_discount.md);
-  * Добавлено описание метода [`update_prices`](/methods/update_prices.md)
+  * Документация реструктурирована, старые ссылки могут не работать
+  * Добавлено поле `qr_code` в вызов метода [`get_discount`](/methods/get_discount.md)
+  * Добавлено описание методов [`update_prices`](/methods/update_prices.md) и [`sellout`](/methods/sellout.md)
 * 21 июля 2020
   * Актуализировано описание методов [`confirm_purchase`](/methods/confirm_purchase.md) и [`cancel_purchase`](/methods/cancel_purchase.md)
   * Добавлен [Типовой сценарий тестирования](test-cases.md)
