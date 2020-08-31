@@ -5,6 +5,7 @@
   * Добавлено поле `qr_code` в вызов метода [`get_discount`](/methods/get_discount.md)
   * Добавлено описание методов [`update_prices`](/methods/update_prices.md) и [`sellout`](/methods/sellout.md)
   * Внесены изменения на [тестовый сервер](/test-server.md) - расширены критерии "узнаваемых карт"
+  * Расширен состав [тестов](/test-cases.md) - добавлены тесты на `update-prices` и `sellout`
 * 21 июля 2020
   * Актуализировано описание методов [`confirm_purchase`](/methods/confirm_purchase.md) и [`cancel_purchase`](/methods/cancel_purchase.md)
   * Добавлен [Типовой сценарий тестирования](/test-cases.md)
