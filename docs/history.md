@@ -6,6 +6,7 @@
   * Добавлено описание методов [`update_prices`](/methods/update_prices.md) и [`sellout`](/methods/sellout.md)
   * Внесены изменения на [тестовый сервер](/test-server.md) - расширены критерии "узнаваемых карт"
   * Расширен состав [тестов](/test-cases.md) - добавлены тесты на `update-prices` и `sellout`
+  * Исправлено описание тестового сервера - на ШК 1111111111116 дается не 30%, а 20% скидка
 * 21 июля 2020
   * Актуализировано описание методов [`confirm_purchase`](/methods/confirm_purchase.md) и [`cancel_purchase`](/methods/cancel_purchase.md)
   * Добавлен [Типовой сценарий тестирования](/test-cases.md)
