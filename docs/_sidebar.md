@@ -5,4 +5,5 @@
 * [Тестовый сервер](/test-server.md)
 * [Описание методов](/methods/)
 * [Типовой сценарий тестирования](/test-cases.md)
+* [Маркировка и DataMatrix](/datamatrix.md)
 * [Отличия от протокола Лайк-Фарма](/like_changes.md)
