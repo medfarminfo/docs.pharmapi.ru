@@ -19,6 +19,7 @@
   * Информация для аптеки
     * [get_programs](/methods/get_programs.md) 
     * [get_products](/methods/get_products.md) 
+* [Отчетность и закрытие периода](/reporting.md)
 * [Типовой сценарий тестирования](/test-cases.md)
 * [Маркировка и DataMatrix](/datamatrix.md)
 * [Отличия от протокола Лайк-Фарма](/like_changes.md)
