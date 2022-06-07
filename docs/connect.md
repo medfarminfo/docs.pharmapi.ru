@@ -8,6 +8,22 @@
 
 !> Обмен данными следует выполнять по hostname, так как IP может меняться со временем.
 
+Взаимодействие с сервером выполняется посредством отправки HTTP-запроса с полезной нагрузкой в теле (body) в JSON, со следующим минимальным набором HTTP-заголовков:
+
+
+```json
+POST https://{hostname}/api/v1.1/get_programs
+Authorization-Token: {значение}
+Authorization-Secret: {значение}
+Content-Type: application/json
+
+{
+    "pos_id": "12345",
+    "pharmacy_id": "678910"
+}
+```
+
+Ответ сервера будет также содержать JSON.
 
 ## HTTPS
 
